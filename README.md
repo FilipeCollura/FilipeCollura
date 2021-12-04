@@ -5,3 +5,5 @@
 - 📫 You can reach me on Twitter and Discord (Hexultic#6969).
 
 Please be aware that I am unproffesional and stupid.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=filipecollura)](https://github.com/anuraghazra/github-readme-stats)
